@@ -1,0 +1,82 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "baloghzsof@gmail.com",
+    "longName": "petar",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGES_MENU_ICON_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/TROLLEYBUS.png",
+                "name": "IMAGES_TROLLEYBUS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/TRAM.png",
+                "name": "IMAGES_TRAM_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/SUBWAY.png",
+                "name": "IMAGES_SUBWAY_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/RAIL.png",
+                "name": "IMAGES_RAIL_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/FERRY.png",
+                "name": "IMAGES_FERRY_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/BUS.png",
+                "name": "IMAGES_BUS_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "petar",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "38125ebe-9428-4c9f-ab93-82a544f64c32",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
